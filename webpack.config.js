@@ -12,7 +12,7 @@ module.exports = {
   devServer: {
     static: './dist',
     hot: true,
-    port: 4000,
+    port: 5000,
   },
   module: {
     rules: [
